@@ -54,3 +54,18 @@ input{
     font-style:bold;
     cursor:pointer;
 }
+
+#result{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    width:300px;
+    height:100px;
+    margin:auto;
+    background-color:black;
+    font-family:monospace;
+    text-align: center;
+    font-size: 20px;
+    padding:10px;
+    border-radius:25%;
+}
